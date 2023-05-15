@@ -15,6 +15,7 @@
 ![](http://tu.yaohuo.me/imgs/2020/06/34ca160c972b9927.png)
 3. 每天早上10点执行任务
 
+
 ## 查看运行结果
 Actions > Cloud check in action > build
 ![](https://cdn.jsdelivr.net/gh/wes-lin/Cloud189Checkin/image/action.png)
